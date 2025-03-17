@@ -1,0 +1,15 @@
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Application\bin\Debug\net8.0\PersonManager.Application.deps.json
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Application\bin\Debug\net8.0\PersonManager.Application.dll
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Application\bin\Debug\net8.0\PersonManager.Application.pdb
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Application\obj\Debug\net8.0\PersonManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Application\obj\Debug\net8.0\PersonManager.Application.AssemblyInfoInputs.cache
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Application\obj\Debug\net8.0\PersonManager.Application.AssemblyInfo.cs
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Application\obj\Debug\net8.0\PersonManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Application\obj\Debug\net8.0\PersonManager.Application.dll
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Application\obj\Debug\net8.0\refint\PersonManager.Application.dll
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Application\obj\Debug\net8.0\PersonManager.Application.pdb
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Application\obj\Debug\net8.0\ref\PersonManager.Application.dll
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Application\bin\Debug\net8.0\PersonManager.Domain.dll
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Application\bin\Debug\net8.0\PersonManager.Domain.pdb
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Application\obj\Debug\net8.0\PersonManager.Application.csproj.AssemblyReference.cache
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Application\obj\Debug\net8.0\PersonMa.58A9F38A.Up2Date

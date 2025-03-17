@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "qbpcwX2z/AEdVBtDDMWYf6vAbjDftzDmCchCQ6FznGk=",
+  "Source": "PersonManager.Api",
+  "BasePath": "_content/PersonManager.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Infrastructure\bin\Debug\net8.0\PersonManager.Infrastructure.deps.json
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Infrastructure\bin\Debug\net8.0\PersonManager.Infrastructure.dll
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Infrastructure\bin\Debug\net8.0\PersonManager.Infrastructure.pdb
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Infrastructure\obj\Debug\net8.0\PersonManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Infrastructure\obj\Debug\net8.0\PersonManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Infrastructure\obj\Debug\net8.0\PersonManager.Infrastructure.AssemblyInfo.cs
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Infrastructure\obj\Debug\net8.0\PersonManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Infrastructure\obj\Debug\net8.0\PersonManager.Infrastructure.dll
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Infrastructure\obj\Debug\net8.0\refint\PersonManager.Infrastructure.dll
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Infrastructure\obj\Debug\net8.0\PersonManager.Infrastructure.pdb
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Infrastructure\obj\Debug\net8.0\ref\PersonManager.Infrastructure.dll
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Infrastructure\bin\Debug\net8.0\PersonManager.Application.dll
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Infrastructure\bin\Debug\net8.0\PersonManager.Domain.dll
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Infrastructure\bin\Debug\net8.0\PersonManager.Application.pdb
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Infrastructure\bin\Debug\net8.0\PersonManager.Domain.pdb
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Infrastructure\obj\Debug\net8.0\PersonManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Infrastructure\obj\Debug\net8.0\PersonMa.BEF72694.Up2Date

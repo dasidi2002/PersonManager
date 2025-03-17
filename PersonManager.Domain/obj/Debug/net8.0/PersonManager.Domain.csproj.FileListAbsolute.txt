@@ -1,0 +1,11 @@
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Domain\bin\Debug\net8.0\PersonManager.Domain.deps.json
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Domain\bin\Debug\net8.0\PersonManager.Domain.dll
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Domain\bin\Debug\net8.0\PersonManager.Domain.pdb
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Domain\obj\Debug\net8.0\PersonManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Domain\obj\Debug\net8.0\PersonManager.Domain.AssemblyInfoInputs.cache
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Domain\obj\Debug\net8.0\PersonManager.Domain.AssemblyInfo.cs
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Domain\obj\Debug\net8.0\PersonManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Domain\obj\Debug\net8.0\PersonManager.Domain.dll
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Domain\obj\Debug\net8.0\refint\PersonManager.Domain.dll
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Domain\obj\Debug\net8.0\PersonManager.Domain.pdb
+C:\Users\Daniel Dias\Desktop\desafio-bancopan\PersonManager\PersonManager.Domain\obj\Debug\net8.0\ref\PersonManager.Domain.dll
