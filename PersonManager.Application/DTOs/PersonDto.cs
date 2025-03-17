@@ -1,4 +1,7 @@
-﻿namespace PersonManager.Application.DTOs
+﻿// PersonManager.Application/DTOs/PersonDto.cs
+using PersonManager.Application.Enums;
+
+namespace PersonManager.Application.DTOs
 {
     public class PersonDto
     {
@@ -6,7 +9,7 @@
         public string Name { get; set; }
         public string DocumentNumber { get; set; }
         public AddressDto Address { get; set; }
-        public string PersonType { get; set; } // "Natural" or "Legal"
+        public PersonType PersonType { get; set; }
 
         // NaturalPerson specific
         public DateTime? BirthDate { get; set; }
