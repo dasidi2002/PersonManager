@@ -1,8 +1,8 @@
-rode o comando docker compose up
-irá criar ima imagem do sql server 
-conecte no banco com as credenciais do docker 
-na master crie a tabela 
-CREATE TABLE Persons (
+- rode o comando docker compose up
+- irá criar ima imagem do sql server 
+- conecte no banco com as credenciais do docker 
+- na master crie a tabela
+- CREATE TABLE Persons (
     [Id] INT IDENTITY(1,1) PRIMARY KEY,
     [Name] NVARCHAR(MAX) NOT NULL,
     [DocumentNumber] NVARCHAR(MAX) NOT NULL,
